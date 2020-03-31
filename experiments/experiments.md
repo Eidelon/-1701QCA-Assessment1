@@ -28,7 +28,7 @@ Inventor Kit project #2: Using a Light Sensor &analog inputs.
 
 #### Photo of completed project ####
 
-![Image](experiments/Task2.jpg)
+![Image](Task%202.jpg)
 
 
 #### Reflection ####
@@ -43,7 +43,7 @@ Inventor Kit project #3: Dimming an LED using a potentiometer.
 
 #### Photo of completed project ####
 
-![Image](experiments/Task3.jpg)
+![Image](Task%203.jpg)
 
 
 #### Reflection ####
@@ -58,7 +58,7 @@ Inventor Kit project #4: Using a transistor to drive a motor.
 
 #### Photo of completed project ####
 
-![Image](experiments/Task4.jpg)
+![Image](Task%204.jpg)
 
 
 #### Reflection ####
@@ -73,7 +73,7 @@ Inventor Kit project #5: Using the accelerometer to control motor speed.
 
 #### Photo of completed project ####
 
-![Image](experiments/Task5.jpg)
+![Image](Task%205.jpg)
 
 
 #### Reflection ####
