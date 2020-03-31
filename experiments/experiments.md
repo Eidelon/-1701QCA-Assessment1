@@ -12,7 +12,7 @@ inventor Kit project #1: Say Hello to the BBC micro:bit.
 
 #### Photo of completed project ####
 
-![Image](experiments/task 1.jpg)
+![Image](task 1.jpg)
 ![Image](missingimage.png)
 
 
