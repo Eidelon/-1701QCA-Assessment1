@@ -11,11 +11,9 @@
 inventor Kit project #1: Say Hello to the BBC micro:bit.
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](Task 1.jpg)
 
-(Insert a caption here)
 
 #### Reflection ####
 
@@ -28,11 +26,9 @@ This experiment could be the basis of a real world application such as a basic s
 Inventor Kit project #2: Using a Light Sensor &analog inputs.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Task 2.jpg)
 
-(Insert a caption here)
 
 #### Reflection ####
 
@@ -45,11 +41,9 @@ This experiment could be the basis of a real world application such as solar gar
 Inventor Kit project #3: Dimming an LED using a potentiometer.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Task 3.jpg)
 
-(Insert a caption here)
 
 #### Reflection ####
 
@@ -62,11 +56,9 @@ This experiment could be the basis of a real world application such as volume co
 Inventor Kit project #4: Using a transistor to drive a motor.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Task 4.jpg)
 
-(Insert a caption here)
 
 #### Reflection ####
 
@@ -79,11 +71,9 @@ This experiment could be the basis of a real world application such as being use
 Inventor Kit project #5: Using the accelerometer to control motor speed.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Task 5.jpg)
 
-(Insert a caption here)
 
 #### Reflection ####
 
