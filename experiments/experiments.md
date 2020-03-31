@@ -13,7 +13,6 @@ inventor Kit project #1: Say Hello to the BBC micro:bit.
 #### Photo of completed project ####
 
 ![Image](task%201.jpg)
-![Image](missingimage.png)
 
 
 #### Reflection ####
@@ -28,7 +27,7 @@ Inventor Kit project #2: Using a Light Sensor &analog inputs.
 
 #### Photo of completed project ####
 
-![Image](Task%202.jpg)
+![Image](task%202.jpg)
 
 
 #### Reflection ####
@@ -43,7 +42,7 @@ Inventor Kit project #3: Dimming an LED using a potentiometer.
 
 #### Photo of completed project ####
 
-![Image](Task%203.jpg)
+![Image](task%203.jpg)
 
 
 #### Reflection ####
@@ -58,7 +57,7 @@ Inventor Kit project #4: Using a transistor to drive a motor.
 
 #### Photo of completed project ####
 
-![Image](Task%204.jpg)
+![Image](task%204.jpg)
 
 
 #### Reflection ####
@@ -73,7 +72,7 @@ Inventor Kit project #5: Using the accelerometer to control motor speed.
 
 #### Photo of completed project ####
 
-![Image](Task%205.jpg)
+![Image](task%205.jpg)
 
 
 #### Reflection ####
